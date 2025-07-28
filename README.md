@@ -3,9 +3,9 @@
 I made this to be an Attack on Titan keychain with LEDs. I followed [solder.hackclub.com/tutorial](https://solder.hackclub.com/tutorial) and used the following parts:
 
 LED
-Resister
-Switch
-Battery
+R
+SW_SPST
+Battery_Cell
 
 <br /><br />
 <img width="466" height="288" alt="Screenshot 2025-07-28 at 2 32 43 AM" src="https://github.com/user-attachments/assets/e17ea6f1-3970-4b31-82de-c03a25c64564" />
