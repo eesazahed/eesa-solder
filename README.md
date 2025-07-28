@@ -1,3 +1,9 @@
+# eesa-solder
+
+I made this to be an Attack on Titan keychain with LEDs. I followed [solder.hackclub.com/tutorial](https://solder.hackclub.com/tutorial) and used the following parts:
+
+<br /><br />
+<img width="743" height="296" alt="Screenshot 2025-07-28 at 2 36 13 AM" src="https://github.com/user-attachments/assets/5134b117-bcef-4f42-881c-eb1aa163c1ab" />
 <br /><br />
 <img width="466" height="288" alt="Screenshot 2025-07-28 at 2 32 43 AM" src="https://github.com/user-attachments/assets/e17ea6f1-3970-4b31-82de-c03a25c64564" />
 <br /><br />
@@ -5,3 +11,6 @@
 <br /><br />
 <img width="317" height="452" alt="Screenshot 2025-07-28 at 2 33 07 AM" src="https://github.com/user-attachments/assets/858f5ce1-a303-4c1f-ba2f-1729bc638d7f" />
 <br /><br />
+<br /><br />
+
+My Slack username: [@Eesa](https://hackclub.slack.com/team/U074SFQFJMS)
