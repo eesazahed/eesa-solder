@@ -2,8 +2,11 @@
 
 I made this to be an Attack on Titan keychain with LEDs. I followed [solder.hackclub.com/tutorial](https://solder.hackclub.com/tutorial) and used the following parts:
 
-<br /><br />
-<img width="743" height="296" alt="Screenshot 2025-07-28 at 2 36 13 AM" src="https://github.com/user-attachments/assets/5134b117-bcef-4f42-881c-eb1aa163c1ab" />
+LED
+Resister
+Switch
+Battery
+
 <br /><br />
 <img width="466" height="288" alt="Screenshot 2025-07-28 at 2 32 43 AM" src="https://github.com/user-attachments/assets/e17ea6f1-3970-4b31-82de-c03a25c64564" />
 <br /><br />
